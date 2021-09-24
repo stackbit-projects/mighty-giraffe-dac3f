@@ -1,6 +1,6 @@
 ---
 title: 
-date: 2017-11-01T12:04:16-05:00
+date: 
 tags: ["coffee", "ipsum", "images"]
 ---
 
